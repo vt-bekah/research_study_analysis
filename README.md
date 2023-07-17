@@ -4,6 +4,8 @@ This repository contains challenge files for UT DAV Bootcamp Module 5 Data Visua
 
 # File Notes
 * pymaceuticals.ipynb contains my written analysis in the top cell and the complete code to output results as indicated by the instrustions and starter code in the following cells.
+* PymaceuticalsReport.docx contains the same written analysis as pymaceuticals.ipynb but with the figures and tables embedded.
+* Additional_pymaceuticals.ipynb contains additional views created for the report and alternate methods to achieve the homework solution. This should not be considered as part of the grading rubric listed in BCS/Canvas
 * data folder contains the two data files analyzed by pymaceuticals.ipynb
 * Starter_Code folder contains the files provided in BCS/Canvas for completing the challenge.
    
