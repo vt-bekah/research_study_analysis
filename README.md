@@ -47,7 +47,7 @@ The following references were used in creating the solution within the PyCitySch
 You must have an environment with python 3.10+, pandas, numpy, matplotlib, scipy, jupyter notebook to execute the notebook.
 
 ## Cloning Repo
-$ git clone https://github.com/vt-bekah/Mod5_Pymaceuticals.git
+$ git clone https://github.com/vt-bekah/research_study_analysis.git
 
 $ cd Mod5_Pymaceuticals
 
