@@ -49,7 +49,7 @@ You must have an environment with python 3.10+, pandas, numpy, matplotlib, scipy
 ## Cloning Repo
 $ git clone https://github.com/vt-bekah/research_study_analysis.git
 
-$ cd Mod5_Pymaceuticals
+$ cd research_study_analysis
 
 $ jupyter lab
 
