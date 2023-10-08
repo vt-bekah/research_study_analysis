@@ -22,8 +22,8 @@ Refer to PymaceuticalsReport for the detailed report.
 
 Capomulin treatments are more effective at reducing the SCC tumor size than the other drug regiments within this study except for Ramicane. More studies would help determine if there is a notable difference between Capomulin and Ramicane. Additionally, the results are independent of gender and age but highly correlated to weight. Future studies may benefit from varying dosage based on weight to further optimize outcomes.
 
-Statistical Sumamry: <br>
-![Statistical Sumamry](images/StatSummary.png)
+Statistical Summary: <br>
+![Statistical Summary](images/StatSummary.png)
 
 Box Plots: <br>
 ![Box Plots](images/BoxPlots.png)
